@@ -1,13 +1,14 @@
-### Flutter Social Posts
+# Flutter Social Posts
 
 ## Semana 1: Configuración y funcionalidades básicas
-Briefing del Proyecto
+
+### Briefing del Proyecto
 Esta aplicación tiene como objetivo permitir a los usuarios crear publicaciones para redes sociales de manera sencilla. Durante esta primera semana, nos enfocaremos en establecer la estructura base del proyecto, configurar las dependencias necesarias y permitir la selección de una imagen desde la galería o la cámara.
 
-Entregable
+### Entregable
 Al final de la semana, la aplicación deberá permitir al usuario seleccionar una imagen desde su dispositivo o tomar una foto con la cámara y mostrarla en pantalla.
 
-Tareas
+### Tareas
 Configuración del proyecto
 Crear un nuevo proyecto Flutter.
 Configurar flutter_bloc para la gestión de estado.
@@ -19,14 +20,14 @@ Implementar el ImagePicker para elegir una imagen de la galería o tomar una fot
 Gestionar el estado de la imagen seleccionada con flutter_bloc.
 Mostrar la imagen seleccionada en pantalla.
 
-# Semana 2: Edición de Imagen
-Briefing del Proyecto
+## Semana 2: Edición de Imagen
+### Briefing del Proyecto
 En esta segunda semana, la aplicación comenzará a incorporar funcionalidades de edición de imagen. Se permitirá a los usuarios agregar textos y otros elementos visuales sobre la imagen seleccionada.
 
-Entregable
+### Entregable
 Al finalizar la semana, la aplicación deberá permitir a los usuarios agregar y mover textos sobre la imagen seleccionada.
 
-Tareas
+### Tareas
 Implementación de la capa de edición
 Crear una nueva pantalla para la edición de imagen.
 Diseñar la estructura de la interfaz con un Stack para superponer elementos.
@@ -41,14 +42,14 @@ Mejoras visuales
 Agregar opciones para cambiar el tamaño y color del texto.
 Implementar una barra de herramientas básica para controlar estas opciones.
 
-# Semana 3: Exportación y Compartir
-Briefing del Proyecto
+## Semana 3: Exportación y Compartir
+### Briefing del Proyecto
 En la tercera y última semana, se añadirá la funcionalidad de exportar la imagen editada y compartirla a través de diferentes plataformas.
 
-Entregable
+### Entregable
 Al finalizar la semana, los usuarios podrán descargar la imagen editada y/o compartirla en redes sociales o aplicaciones de mensajería.
 
-Tareas
+### Tareas
 Generación de imagen final
 Implementar la captura de la vista editada como imagen.
 Guardar la imagen en el dispositivo.
